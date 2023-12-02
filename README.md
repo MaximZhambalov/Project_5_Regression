@@ -53,6 +53,8 @@
     * [scikit-learn (1.2.2)](https://scikit-learn.org/stable/index.html)
     * [plotly (5.13.0)](https://plotly.com/python/plotly-express/)
     * [scipy 1.9.3](https://scipy.org/)
+    * [catboost 1.2](https://catboost.ai/)
+    * [xgboost 1.7.6](https://xgboost.readthedocs.io/en/stable/)
 
 ## Установка проекта
 ```
