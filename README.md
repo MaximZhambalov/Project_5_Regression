@@ -52,6 +52,7 @@
     * [matplotlib (3.6.3)](https://matplotlib.org/)
     * [scikit-learn (1.2.2)](https://scikit-learn.org/stable/index.html)
     * [plotly (5.13.0)](https://plotly.com/python/plotly-express/)
+    * [scipy 1.9.3](https://scipy.org/)
 
 ## Установка проекта
 ```
